@@ -1,0 +1,32 @@
+* {
+  font-family: poppins, sans-serif;
+}
+
+.container-fluid {
+  margin: 64px 0 64px 0;
+}
+
+.container-fluid a {
+  font-size: 64px;
+  font-weight: 700;
+  color: #31303c;
+}
+
+#containerMovie {
+  justify-content: center;
+  font-family: poppins;
+}
+
+.card {
+  margin: 0px auto 0px auto;
+}
+
+.card-rate {
+  margin: 16px 16px 0 0;
+  text-align: right;
+  font-weight: 700;
+}
+
+.card-body {
+  font-weight: 430;
+}
